@@ -1,0 +1,10 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(238,130,238);
+  }
+  
+  .h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+  }
